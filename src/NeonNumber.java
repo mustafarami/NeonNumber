@@ -20,7 +20,7 @@ public class NeonNumber {
 
         Scanner input = new Scanner(System.in);
 
-        //System.out.println("Enter a Number: ");
+        System.out.println("Enter a Number: ");
         number = input.nextInt();
         square = number * number;
 
