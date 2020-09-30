@@ -1,6 +1,5 @@
 # NeonNumber
-What is Neon Number?
- A neon number is a number where the sum of digits is square of the number is equal to the number itself.
+A neon number is a number where the sum of digits is square of the number is equal to the number itself.
 
 Example:
  9 is a neon number.
